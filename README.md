@@ -6,20 +6,20 @@
   
 
 <p align="center">
-  <img src="https://github.com/gopheramol/gopheramol/blob/master/assets/go.gif"  height="120" />
+  <img src="https://github.com/gopheramol/gopheramol/blob/main/assets/go.gif"  height="120" />
 </p>
 
 ## 🚀💻 Technologies & Tools
 
 <p float="left">
-  <img src="https://github.com/gopheramol/gopheramol/blob/master/assets/ubu.png"  height="85" />
-  <img src="https://github.com/gopheramol/gopheramol/blob/master/assets/go.png"  height="85" />
-  <img src="https://github.com/gopheramol/gopheramol/blob/master/assets/vscode.png"  height="85" />
-  <img src="https://github.com/gopheramol/gopheramol/blob/master/assets/postgres.png"  height="85" />
-  <img src="https://github.com/gopheramol/gopheramol/blob/master/assets/mysql.png"  height="85" />
-  <img src="https://github.com/gopheramol/gopheramol/blob/master/assets/docker.png"  height="85" />
-  <img src="https://github.com/gopheramol/gopheramol/blob/master/assets/chrome.png"  height="85" />
-  <img src="https://github.com/gopheramol/gopheramol/blob/master/assets/terminal-512.png"  height="85" />
+  <img src="https://github.com/gopheramol/gopheramol/blob/main/assets/ubu.png"  height="85" />
+  <img src="https://github.com/gopheramol/gopheramol/blob/main/assets/go.png"  height="85" />
+  <img src="https://github.com/gopheramol/gopheramol/blob/main/assets/vscode.png"  height="85" />
+  <img src="https://github.com/gopheramol/gopheramol/blob/main/assets/postgres.png"  height="85" />
+  <img src="https://github.com/gopheramol/gopheramol/blob/main/assets/mysql.png"  height="85" />
+  <img src="https://github.com/gopheramol/gopheramol/blob/main/assets/docker.png"  height="85" />
+  <img src="https://github.com/gopheramol/gopheramol/blob/main/assets/chrome.png"  height="85" />
+  <img src="https://github.com/gopheramol/gopheramol/blob/main/assets/terminal-512.png"  height="85" />
  
 </p>
 
